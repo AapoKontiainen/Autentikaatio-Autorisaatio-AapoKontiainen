@@ -1,0 +1,43 @@
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\appsettings.json
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\Autentikaatio & Autorisaatio.staticwebassets.endpoints.json
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\Autentikaatio & Autorisaatio.exe
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\Autentikaatio & Autorisaatio.deps.json
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\Autentikaatio & Autorisaatio.runtimeconfig.json
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\Autentikaatio & Autorisaatio.dll
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\Autentikaatio & Autorisaatio.pdb
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\Autentikaatio & Autorisaatio.csproj.AssemblyReference.cache
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\Autentikaatio & Autorisaatio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\Autentikaatio & Autorisaatio.AssemblyInfoInputs.cache
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\Autentikaatio & Autorisaatio.AssemblyInfo.cs
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\Autentikaatio & Autorisaatio.csproj.CoreCompileInputs.cache
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\Autentikaatio & Autorisaatio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\Autentikaatio & Autorisaatio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\Autentikaatio & Autorisaatio.sourcelink.json
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\scopedcss\bundle\Autentikaatio & Autorisaatio.styles.css
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\Autentik.9F67B938.Up2Date
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\Autentikaatio & Autorisaatio.dll
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\refint\Autentikaatio & Autorisaatio.dll
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\Autentikaatio & Autorisaatio.pdb
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\Autentikaatio & Autorisaatio.genruntimeconfig.cache
+C:\Users\konti\OneDrive - Kaakkois-Suomen ammattikorkeakoulu Oy\Ohjelmointi tavaraaa\Autentikaatio-Autorisaatio-AapoKontiainen\obj\Debug\net8.0\ref\Autentikaatio & Autorisaatio.dll
